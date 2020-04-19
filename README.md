@@ -1,5 +1,5 @@
-## Desafio 01 do Bootcamp Gostack11 da RocketSeat
+## Challenge 01 Gostack11 Bootcamp - RocketSeat
 
-### Para rodar testes:
+### To run tests:
 
 `yarn test`
